@@ -1,0 +1,29 @@
+{
+  "sides": [
+    {
+      "name": "Garlic Bread",
+      "imageUrl": "https://images.unsplash.com/photo-1593527270723-834c53a3fed4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "Toasted bread brushed with garlic butter and sprinkled with herbs."
+    },
+    {
+      "name": "Roasted Vegetables",
+      "imageUrl": "https://images.unsplash.com/photo-1607756794891-163e2a0c85f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1754&q=80",
+      "description": "A mix of seasonal vegetables roasted with olive oil and herbs."
+    },
+    {
+      "name": "Fries",
+      "imageUrl": "https://images.unsplash.com/photo-1585109649139-366815a0d713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "description": "Crispy golden fries seasoned with salt and served with ketchup."
+    },
+    {
+      "name": "Mashed Potatoes",
+      "imageUrl": "https://images.unsplash.com/photo-1633436375153-d7045cb93e38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=930&q=80",
+      "description": "Creamy mashed potatoes made with butter and milk."
+    },
+    {
+      "name": "Side Salad",
+      "imageUrl": "https://images.unsplash.com/photo-1572928896925-36df69c2567c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1738&q=80",
+      "description": "Mixed greens with tomatoes, cucumbers, and your choice of dressing."
+    }
+  ]
+}

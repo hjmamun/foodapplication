@@ -1,0 +1,29 @@
+{
+  "drink_items": [
+    {
+      "name": "Espresso",
+      "imageUrl": "https://images.unsplash.com/photo-1610889556528-9a770e32642f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8RXNwcmVzc298ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "description": "A concentrated coffee brewed by forcing hot water under high pressure through finely ground coffee beans."
+    },
+    {
+      "name": "Cappuccino",
+      "imageUrl": "https://images.unsplash.com/photo-1534778101976-62847782c213?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Q2FwcHVjY2lub3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "description": "An espresso-based drink made with steamed milk and a thick layer of milk foam on top."
+    },
+    {
+      "name": "Latte",
+      "imageUrl": "https://images.unsplash.com/photo-1620360289100-030b032e5a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8TGF0dGV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "description": "A coffee-based drink made with steamed milk and a small amount of foam on top."
+    },
+    {
+      "name": "Mocha",
+      "imageUrl": "https://images.unsplash.com/photo-1618576230663-9714aecfb99a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TW9jaGF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "description": "A chocolate-flavored variant of a latte, typically made with espresso and hot milk, and topped with whipped cream."
+    },
+    {
+      "name": "Iced Tea",
+      "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8SWNlZCUyMFRlYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "description": "A refreshing cold drink made by steeping tea leaves in cold water and served over ice."
+    }
+  ]
+}

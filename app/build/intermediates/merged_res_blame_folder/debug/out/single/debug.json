@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/raw_entress.json.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/raw/entress.json"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_checkout.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/checkout.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_content_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_pad_thai.jpg.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/pad_thai.jpg"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable-anydpi-v21_ic_menu_share.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-25:/drawable-anydpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_grilled_salmon.jpg.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/grilled_salmon.jpg"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_fragment_entrees.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/fragment_entrees.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_app_bar_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_food_item_layout.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/food_item_layout.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_chicken_caesar_salad.jpg.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/chicken_caesar_salad.jpg"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable-anydpi-v21_ic_menu_send.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-25:/drawable-anydpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_menuimage.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/menuimage.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable_pasta.jpg.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/drawable/pasta.jpg"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_activity_place_order.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/activity_place_order.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_nav_header_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/raw_sides.json.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/raw/sides.json"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/menu_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-25:/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable-anydpi-v21_ic_menu_manage.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-25:/drawable-anydpi-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/raw_drinks.json.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/raw/drinks.json"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-25:/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_fragment_drinks.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/fragment_drinks.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-pngs-25:/drawable-anydpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_fragment_sides.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/fragment_sides.xml"
+    },
+    {
+        "merged": "com.example.android.navdrawerexperiment.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.android.navdrawerexperiment.app-main-32:/layout/activity_main.xml"
+    }
+]

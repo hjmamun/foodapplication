@@ -1,0 +1,29 @@
+{
+  "food_items": [
+    {
+      "name": "Pizza Margherita",
+      "imageUrl": "https://images.unsplash.com/photo-1458642849426-cfb724f15ef7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "description": "A classic pizza made with tomato sauce, fresh mozzarella cheese, and basil."
+    },
+    {
+      "name": "Grilled Salmon",
+      "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "description": "Fresh salmon grilled to perfection and served with a side of vegetables."
+    },
+    {
+      "name": "Pad Thai",
+      "imageUrl": "https://images.unsplash.com/photo-1637806931098-af30b519be53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+      "description": "A traditional Thai dish made with stir-fried noodles, vegetables, peanuts, and your choice of meat or tofu."
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "imageUrl": "https://images.unsplash.com/photo-1582034986517-30d163aa1da9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+      "description": "Crisp romaine lettuce, grilled chicken, and parmesan cheese tossed with Caesar dressing."
+    },
+    {
+      "name": "Pasta Carbonara",
+      "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80",
+      "description": "Spaghetti tossed with a creamy sauce made from eggs, bacon, and parmesan cheese."
+    }
+  ]
+}
